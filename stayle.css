@@ -1,0 +1,208 @@
+
+
+
+*{ 
+    text-decoration: none;
+
+}
+
+
+body{
+    display: flex;
+    background-color:#f3f3f3;
+    height: 100vh;
+    width: 100;
+   
+    
+    
+}
+header{
+   
+
+    background-color:#fff;
+    width: 100%;
+    height: 100px;
+    
+
+}
+
+
+header nav ul{
+    display: block;
+    margin: 0 auto;
+    padding: 35px ;
+
+  
+
+}
+header nav ul li{
+    display: inline-block;
+    float: left;
+    list-style: none;
+    padding: 0px;
+    margin: 16px;
+
+}
+header nav ul li a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    color: #111;
+}
+
+
+
+header nav ul a:hover {
+    color: red;
+}
+
+
+#index-h1 { 
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 24px;
+    font-weight: 500;
+    color: #111;
+    text-transform: uppercase;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    padding: 40px 0;
+  
+
+}
+.line{
+    width: 200px;
+    height: 4px;
+    background-color: red;
+    margin: 0px auto;
+
+    
+
+
+}
+#index-p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    color: #111;
+    text-transform: inherit;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px 0;
+}
+.img-dog{
+    
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px 0;
+}
+.img :hover{
+    cursor: pointer;
+    
+}
+
+/*about*/
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    color: red;
+    text-transform: uppercase;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px 0;
+}
+#about-p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    color: #111;;
+    text-transform: inherit;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px 0;
+}
+h2{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    color: red; 
+    text-transform: uppercase;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px 0;
+    
+}
+#about-p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    color: #111;
+    text-transform:inherit;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px 0;
+    
+}
+img{
+
+    text-transform:inherit;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px 0;
+
+}
+
+/*contact*/
+#contact-h1{
+    font-family:Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-size: 35px;
+    font-weight: 500;
+}
+#contact-p{
+    text-transform: inherit;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+section h2{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    color: blue;
+    text-transform: inherit;
+    margin: 25px;
+    text-align: center;
+    padding: 15px;
+}
+
+section p{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 27px;
+    font-weight: 500;
+    color: #111;
+    text-transform: inherit;
+    margin: 10px;
+    text-align: center;
+    padding: 5px;
+}
+
+
+
+
+
+
+
+
+
+
