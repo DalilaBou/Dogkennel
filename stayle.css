@@ -58,8 +58,8 @@ header nav ul a:hover {
 
 #index-h1 { 
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 24px;
-    font-weight: 500;
+    font-size: 30px;
+    font-weight: 600;
     color: #111;
     text-transform: uppercase;
     display: block;
@@ -82,7 +82,7 @@ header nav ul a:hover {
 #index-p{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 24px;
-    font-weight: 500;
+    font-weight: 400;
     color: #111;
     text-transform: inherit;
     display: block;
@@ -92,13 +92,15 @@ header nav ul a:hover {
 }
 .img-dog{
     
-    display: block;
+    display: flex;
     margin: 0 auto;
-    text-align: center;
+    text-align: left;
     padding: 50px 0;
 }
-.img :hover{
+.img-dog :hover{
     cursor: pointer;
+    opacity: 0.4;
+    transition: 0.4s;
     
 }
 
